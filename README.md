@@ -11,4 +11,4 @@ My work at Usha Breco includes Excel reporting, lookups, Pivot Tables, data clea
 ## Tools
 Excel · VLOOKUP · INDEX-MATCH · Pivot Tables · Power Query · SQL · Power BI
 
-I am interested in entry-level MIS Executive, Reporting Analyst, Junior Data Analyst and operations reporting opportunities in Delhi NCR or fully remote roles.
+I am interested in MIS Executive, Reporting Analyst, Junior Data Analyst and operations reporting opportunities in Delhi NCR or fully remote roles.
